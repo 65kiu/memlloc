@@ -1,0 +1,31 @@
+{
+    "files.encoding": "gb18030",
+    "files.associations": {
+        "map": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory0": "cpp",
+        "xtr1common": "cpp",
+        "thread": "cpp",
+        "xlocnum": "cpp",
+        "xhash": "cpp",
+        "bitset": "cpp"
+    },
+    "svn.ignoreMissingSvnWarning": true
+}
